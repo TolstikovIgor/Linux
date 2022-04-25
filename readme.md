@@ -2,6 +2,8 @@
 ![](logo.png)
 #### Факультет Data Engineering
 ____
+[Курсовой прект](https://github.com/TolstikovIgor/Linux/tree/main/lesson8)
+___
 #### [Урок 1. Введение. Установка ОС](https://github.com/TolstikovIgor/Linux/tree/main/lesson1)
 1. Выбор дистрибутива.
 2. Инсталлятор операционной системы.
